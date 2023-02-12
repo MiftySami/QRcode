@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    padding-top: 200px;
+}
+h3 {
+    text-align: center;
+}
+p {
+    font-size: 15px;
+    text-align: center;
+}
+
+.mainbody{
+    background-color: white;
+    width: 260px;
+    margin: auto;
+    padding: 10px 10px 50px 10px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px 10px hsl(212, 45%, 89%);
+
+}
+.qrcode {
+    width: 260px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.attribution {
+    text-align: center;
+    padding-top: 25px;
+}
